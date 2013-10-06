@@ -22,7 +22,11 @@ Options:
   -h, --help      show this help message and exit
   -s, --single    Check single login validity. Ex: check.py -s asd@asd.com,asd
   -f, --filename  File contains email/password. Ex: check.py -f accounts.txt
-
+  
+--version        show program's version number and exit
+-h, --help       show this help message and exit
+-s, --single     Check single login validity. Ex: check.py -s asd@asd.com,asd
+-f, --filename   File contains email/password. Ex: check.py -f accounts.txt
 Disclaimer:
 - For education and testing purpose only.
 - Email Providers keep changing their config and structure so sometimes the code doesn't work.
