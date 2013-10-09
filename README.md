@@ -39,3 +39,6 @@ Note:
 Version:
 1.0 - First pushed code.
 1.1 - Fixed check yahoo after yahoo update their structure.
+
+
+testing more function and edit it alster
