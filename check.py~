@@ -19,7 +19,7 @@ def randomEncryptKey(length=8):
 
 
 def checkYahoo( email, passwd, single ):
-    ### Using method of posting/get response from serverr
+    ### Using method of posting/get response from server
     ### along with cookies, header, SSL enabled ... and
     ### when the responses is true to a specific value, the login is valid
 
