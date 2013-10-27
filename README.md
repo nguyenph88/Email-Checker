@@ -41,4 +41,3 @@ Version:
 1.1 - Fixed check yahoo after yahoo update their structure.
 
 
-testing more function and edit
