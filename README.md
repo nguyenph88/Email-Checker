@@ -5,7 +5,7 @@ Check the validity of various kinds of email addresses, this piece of tool demon
 
 Requirement:
 - Python 3 (Python 2 has different method names)
-- Better run on Windows (some codes interacts with windows objects)
+- Better run on Windows (some codes interacts with windows objects) 
 - SSL on (othewise Gmail/Other mail check won't work)
 
 Usage:
