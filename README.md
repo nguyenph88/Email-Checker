@@ -18,9 +18,13 @@ Algorithm and Idea:
 - Send a combination user/pass to a login form, submit it => recieve the response of the next web page, find the pattern and determine whether it's valid or not.
 
 Options:
+
   --version       show program's version number and exit
+  
   -h, --help      show this help message and exit
+  
   -s, --single    Check single login validity. Ex: check.py -s asd@asd.com,asd
+  
   -f, --filename  File contains email/password. Ex: check.py -f accounts.txt
 
 Disclaimer:
